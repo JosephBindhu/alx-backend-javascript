@@ -1,2 +1,1 @@
-# alx-backend-javascript
-Javascript BakEnd
+# Solutions to tasks on 0x06. Unittests in JS
